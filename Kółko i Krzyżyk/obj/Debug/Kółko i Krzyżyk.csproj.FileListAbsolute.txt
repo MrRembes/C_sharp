@@ -1,0 +1,21 @@
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe.config
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.AssemblyReference.cache
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.SuggestedBindingRedirects.cache
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Form1.resources
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.GenerateResource.cache
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.CoreCompileInputs.cache
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.exe
+D:\Prace\Visual\C#\Kółko i Krzyżyk\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.pdb
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe.config
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.exe
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\bin\Debug\Kółko i Krzyżyk.pdb
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Form1.resources
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko_i_Krzyżyk.Properties.Resources.resources
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.exe
+C:\Users\PC\Downloads\Kółko i Krzyżyk - C#-20240322T114835Z-001\Kółko i Krzyżyk - C#\Kółko i Krzyżyk\obj\Debug\Kółko i Krzyżyk.pdb
