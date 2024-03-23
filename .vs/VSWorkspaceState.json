@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Kółko i Krzyżyk"
+    "\\Kółko i Krzyżyk",
+    "\\Kółko i Krzyżyk\\obj"
   ],
-  "SelectedNode": "\\Kółko i Krzyżyk\\Form1.cs",
+  "SelectedNode": "\\Kółko i Krzyżyk.sln",
   "PreviewInSolutionExplorer": false
 }
